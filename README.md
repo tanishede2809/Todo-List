@@ -85,10 +85,3 @@ In the project directory, you can run:
 - Add category filters and search
 - Replace alerts with inline validation messages
 
-## Contributing
-
-Contributions are welcome. Fork the repository, create a new branch, make your changes, and open a pull request.
-
-## License
-
-This project is open source and available under the MIT License.
